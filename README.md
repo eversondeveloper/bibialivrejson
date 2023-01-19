@@ -1,2 +1,7 @@
-# bibialivrejson
-Bíblia Livre em formato json
+"id": "0",
+    "autorarquivo": "Everson Silva",
+    "representante": "everScript",
+    "data de criação": "17 de janeiro de 2023",
+    "autorversão": "Projeto Bíblia Livre: (https://sites.google.com/site/biblialivre). Para mais informações sobre todos os direitos sobre a versão, visite o site. O meu trabalho foi a formatação do arquivo em JSon",
+    "objetivo": "Criei este arquivo para me auxiliar em um projeto e decidi compartilhá-lo para facilitar a vida de outras pessoas. Percebi a necessidade, quando eu mesmo procurei e não achei uma Bíblia Livre em JSon",
+    "intrucoes": "Você pode fazer o que quiser com este arquivo, manipulá-lo, modificá-lo, editá-lo, apagá-lo... e até apagar este objeto que me dá os créditos, caso ele te atrapalhe na criação do seu projeto... não preciso de créditos ou reconhecimentos por uma ação tão pequena. Importante entender que estas instruções se referem ao arquivo e sua estrutura em si. Você pode modificar a estrutura do arquivo. Sobre a tradução da Bíblia Livre e sua estrutura, não tenho poder para autorizar tais modificações. Não tenho poder, nem gabarito para isso. Que estas palavras, contidas neste livro, sejam propagadas ao máximo de pessoas possível. Da mesma forma que os tradutores da Bíblia Livre não buscam ganhos financeiros por criá-la, eu criei este arquivo sem nenhum interesse (não que estas duas ações tenham qualquer semelhança em seu peso de importância, demorei só um dia para criar este arquivo, mas se é esta a forma de eu participar... aí está!). Faça bom proveito!"
